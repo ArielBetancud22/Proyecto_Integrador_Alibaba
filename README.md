@@ -32,18 +32,18 @@ Las Primeras versiones, fueron realizadas en #Pseint , debido a que fue el pseud
 ![Checking](https://i.postimg.cc/76f0vmQ2/Checking.png)
 - Descripción de las opciones:
 
-    ### 1 Verificación de ticket: 
+    ### 1. Verificación de ticket: 
     Esta función del programa permite conocer al usuario si el ticket ingresado es válido o no. Asimismo este menú muestra la cantidad de tickets a validar por el sistema distribuidos en los siguientes sectores: palco izquierdo, zona vip y palco derecho. Al momento de registrar un ticket válido aparecerá el siguiente texto: “El ticket es válido”  y más abajo mostrará la siguiente línea: ¿Desea seguir registrando boletos? Deberá escoger entre las opciones por teclado: 1. Si para continuar o 2. No para salir y regresar al menú principal.
 
 ![Venta](https://i.postimg.cc/PrmZkLK2/Venta.png)
 
-  ### 2 Venta de tickets: 
+  ### 2. Venta de tickets: 
   Esta opción permite realizar la venta de tickets , conocer la disponibilidad de los mismos según ubicación en el escenario: palco izquierdo, zona vip, palco derecho. Más abajo tendrá disponibles las opciones: 1. Ingresar las zonas donde se desea vender 2. Ingresar por teclado la cantidad de entradas que se desea vender . Al finalizar la venta de la misma se desplegará en la pantalla el siguiente menú***Facturacion***- En el menú de facturación podrá seleccionar lo siguiente: 1.Facturar la siguiente cantidad 2. Ingresar el porcentaje de descuento. Concluida la facturación, al final del menú se exhibe la opción de 1. Seguir vendiendo 2.Regresar al menú principal.
 
 ![Salir](https://i.postimg.cc/SKKz8g4v/Salir.png)
 
-  ### 3.Salir: 
-  Al seleccionar esta opción y tras un breve mensaje de despedida se dará por finalizada la ejecución del programa.
+  ### 3. Salir: 
+  Al seleccionar esta opción y tras un breve mensaje de despedida, se dará por finalizada la ejecución del programa.
 
 ## Video de Presentación del Proyecto
 
