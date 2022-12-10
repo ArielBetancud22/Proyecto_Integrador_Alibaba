@@ -6,11 +6,11 @@
 </div>
  
 <h2>
- El programa está desarrollado en el Lenguaje de Programación #Java, por el Grupo Alí Babá y los Programadores, aplicando lo aprendido en la Tecnicatura Universitaria en Programación de la UTN Facultad Regional San Rafael. 
+ El programa está desarrollado en el Lenguaje de Programación #Java, por el Grupo Alí Babá y los Programadores. Aplicando lo aprendido en la Tecnicatura Universitaria en Programación de la UTN Facultad Regional San Rafael. 
  </h2>
  
  <h4>
- El mismo fué ideado, para la recepción de participantes de un Concierto, donde el Verificador, ingresa a la aplicación mediante un Login, para luego Verificar las entradas ya vendidas o bien vender nuevas entradas.
+ El mismo fue ideado para la recepción de participantes de un Concierto, donde el Verificador ingresa a la aplicación mediante un Login para luego Verificar las entradas ya vendidas o bien vender nuevas entradas.
 
 Las Primeras versiones, fueron realizadas en #Pseint , debido a que fue el pseudolenguaje que aprendimos como Introducción a la Programación, actualmente lo mejoramos al proyecto, pasándolo a un lenguaje tan potente como es #java de Oracle. En esta oportunidad mostramos una versión simple pero robusta utilizando #POO, para una mejor estructuración y futuro mantenimiento del programa. 
  </h4>
